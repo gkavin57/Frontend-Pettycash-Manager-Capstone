@@ -51,7 +51,7 @@ const Login = () => {
             <button className="btn btn-primary mt-3">Login</button>
           </div>
           <div className="testing">
-            <h6>testing credentials </h6>
+            <h6> Test Credentials </h6>
             <span className="test-left">email : test@gmail.com</span>
             <span className="test-left">password : kavin123</span>
           </div>
